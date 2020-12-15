@@ -1,0 +1,53 @@
+{
+	"OrbitsData": [
+		{
+			"BodyName": "Solar system barycenter",
+			"AttractorName": "",
+			"AttractorMass": 0.0,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 0.0,
+			"W": 0.0,
+			"MA": 0.0,
+			"A": 0.0,
+			"Diameter": 0
+		},
+		{
+			"BodyName": "Sun",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 2.6844749751125526e27,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 0.0,
+			"W": 0.0,
+			"MA": 0.0,
+			"A": 0.0,
+			"Diameter": 1392.7,
+			"Color": {
+				"r": 0.9529412,
+				"g": 0.8,
+				"b": 0.25,
+				"a": 1.0
+			},
+			"Type": 1
+		},
+		{
+			"BodyName": "Mercury",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.18616124122479,
+			"IN": 6.897509795833419,
+			"OM": 47.55979100683341,
+			"W": 31.23164780152099,
+			"MA": 88.95039755303172,
+			"A": 0.3938530083098737,
+			"Diameter": 4.9,
+			"Color": {
+				"r": 0.529,
+				"g": 0.5,
+				"b": 0.51,
+				"a": 1.0
+			}
+		}
+	]
+}

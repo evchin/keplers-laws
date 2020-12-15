@@ -1,0 +1,192 @@
+{
+	"OrbitsData": [
+		{
+			"BodyName": "Solar system barycenter",
+			"AttractorName": "",
+			"AttractorMass": 0.0,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 0.0,
+			"W": 0.0,
+			"MA": 0.0,
+			"A": 0.0,
+			"Diameter": 0
+		},
+		{
+			"BodyName": "Sun",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 2.6844749751125526e27,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 0.0,
+			"W": 0.0,
+			"MA": 0.0,
+			"A": 0.0,
+			"Diameter": 1392.7,
+			"Color": {
+				"r": 0.227,
+				"g": 0.368,
+				"b": 0.635,
+				"a": 1.0
+			},
+			"Type": 1
+		},
+		{
+			"BodyName": "Mercury",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 47.55979100683341,
+			"W": 31.23164780152099,
+			"MA": 88.95039755303172,
+			"A": 0.3938530083098737,
+			"Diameter": 4.9,
+			"Color": {
+				"r": 0.529,
+				"g": 0.5,
+				"b": 0.51,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Venus",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 76.18480959372393,
+			"W": 334.5446357918177,
+			"MA": 198.0741475089487,
+			"A": 0.7126826197114173,
+			"Diameter": 12.1,
+			"Color": {
+				"r": 0.804,
+				"g": 0.721,
+				"b": 0.615,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Earth-Moon barycenter",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 160.2658938755406,
+			"W": 261.4166510538413,
+			"MA": 173.3373020011133,
+			"A": 0.9884668414685552,
+			"Diameter": 0
+		},
+		{
+			"BodyName": "Mars",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 49.39513332076693,
+			"W": 290.8670181487074,
+			"MA": 320.6835625948802,
+			"A": 1.499665304235853,
+			"Diameter": 6.8,
+			"Color": {
+				"r": 1.0,
+				"g": 0.517,
+				"b": 0.376,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Jupiter",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 100.5048225627479,
+			"W": 275.4290638384232,
+			"MA": 278.029722695777,
+			"A": 5.186724453387114,
+			"Diameter": 139.8,
+			"Color": {
+				"r": 0.8,
+				"g": 0.619,
+				"b": 0.384,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Saturn",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 113.5896710000065,
+			"W": 339.2611583415289,
+			"MA": 206.6504597578883,
+			"A": 9.533799603901359,
+			"Diameter": 116.5,
+			"Color": {
+				"r": 0.745,
+				"g": 0.666,
+				"b": 0.529,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Uranus",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 74.07184991067385,
+			"W": 97.00020408794204,
+			"MA": 229.6390399703458,
+			"A": 19.18797530214209,
+			"Diameter": 50.7,
+			"Color": {
+				"r": 0.239,
+				"g": 0.819,
+				"b": 0.839,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Neptune",
+			"AttractorName": "Solar system barycenter",
+			"AttractorMass": 1.9884999721201209e30,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 131.7875937191575,
+			"W": 270.6008285876983,
+			"MA": 303.8071301409309,
+			"A": 30.08264629659431,
+			"Diameter": 49.2,
+			"Color": {
+				"r": 0.007,
+				"g": 0.407,
+				"b": 0.615,
+				"a": 1.0
+			}
+		},
+		{
+			"BodyName": "Earth",
+			"AttractorName": "Earth-Moon barycenter",
+			"AttractorMass": 1.11135511130601e19,
+			"EC": 0.0,
+			"IN": 0.0,
+			"OM": 88.97085363564469,
+			"W": 310.6531500024206,
+			"MA": 328.5176372848259,
+			"A": 0.00003097823699264246,
+			"Diameter": 12.7,
+			"RangeMlt": 50,
+			"Color": {
+				"r": 0.9529412,
+				"g": 0.8,
+				"b": 0.25,
+				"a": 1.0
+			}
+		}
+	]
+}
